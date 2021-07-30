@@ -1,4 +1,6 @@
 # Matrix_Perimeter_Sum
+# Author Harshit Dawar
+#
 This Algorithm finds the sum of the perimter values of a given m*n matrix
 
 This is a very simple java algorithm to find the Sum of the perimeter values of any m*n matrix
